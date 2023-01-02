@@ -4,22 +4,22 @@
 
 ## Features
 
--Replaces the default garry's mod weapon selector.
--Works for MOST gamemodes, guaranteed to work on any that are Sandbox based.
--Done are the days of AutoIcons, With IWS you have the ability to create custom high-quality icons.
--Client-defined icon sizes.
--Capture any icon in any scene with any number of props/ragdolls/whatever.
--Streamlined icon creation, uploading and downloading.
--Icons are updated in real time for all players. no reconnect required.
--Icons are stored on imgur, not occupying your precious hard-drive space.
--Import/export with ability to edit data manually (json).
--Fast-switch support.
--Highly customizable UI theme (must be done in iconic_config.lua).
--Highly configurable.
--Language translations support with French, Russian, Turkish, German, Danish, Polish and Spanish supported other than English.
--High performance and responsiveness.
--Smooth UI animations.
--Singleplayer & Multiplayer sv.db support.
+- Replaces the default garry's mod weapon selector.
+- Works for MOST gamemodes, guaranteed to work on any that are Sandbox based.
+- Done are the days of AutoIcons, With IWS you have the ability to create custom high-quality icons.
+- Client-defined icon sizes.
+- Capture any icon in any scene with any number of props/ragdolls/whatever.
+- Streamlined icon creation, uploading and downloading.
+- Icons are updated in real time for all players. no reconnect required.
+- Icons are stored on imgur, not occupying your precious hard-drive space.
+- Import/export with ability to edit data manually (json).
+- Fast-switch support.
+- Highly customizable UI theme (must be done in iconic_config.lua).
+- Highly configurable.
+- Language translations support with French, Russian, Turkish, German, Danish, Polish and Spanish supported other than English.
+- High performance and responsiveness.
+- Smooth UI animations.
+- Singleplayer & Multiplayer sv.db support.
 
 ### Configuration
 
